@@ -3,6 +3,7 @@ Public security audit reports performed by the BugBlow team.
 
 | Client | Project | Category | Report | Date |
 |---|---|---|---|---|
+| Preduck Games | Preduck Games (EVM) | Prediction Market | [📋](https://github.com/BugBlow/audits/blob/main/PreduckGames_EVM_Security_Audit_Report_By_BugBlow.pdf) | Dec 8, 2025 |
 | Pancake Swap | Predictions V2 | Prediction Market | [📋](https://github.com/BugBlow/audits/blob/main/Pancake_Swap_Predictions_V2_Security_Audit_Report_By_BugBlow.pdf) | Dec 1, 2025 |
 | Delabs | Boxing Star X | GameFi | [📋](https://github.com/BugBlow/audits/blob/main/Delabs_BSX_Security_Audit_Report_By_BugBlow.pdf) | Jul 16, 2025 |
 | Lumia | IDO | Staking | [📋](https://github.com/BugBlow/audits/blob/main/IDO_Security_Audit_Report_By_BugBlow.pdf) | Jul 23, 2025 |
