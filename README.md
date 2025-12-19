@@ -13,7 +13,7 @@ Public security audit reports performed by the BugBlow team.
 | TonMarket Labs | Ton Market | Prediction Market | [📋](https://github.com/BugBlow/audits/blob/main/TonMarket_Security_Audit_Report_By_BugBlow.pdf) | May 29, 2025 |
 | HyperLaunch | Bonding Curve | Prediction Market | [📋](https://github.com/BugBlow/audits/blob/main/HyperLaunch_BondingCurve_Security_Audit_Report_By_BugBlow.pdf) | May 5, 2025 |
 | Delabs | Boxing Star X (EVM) | GameFi | [📋](https://github.com/BugBlow/audits/blob/main/Delabs_KAIA_Security_Audit_Report_By_BugBlow.pdf) | Apr 4, 2025 |
-| HyperLaunch | HyperLaunch | Liquidity Management / Distribution | [📋](https://github.com/BugBlow/audits/blob/main/HyperLaunch_Security_Audit_Report_By_BugBlow.pdf) | Apr 4, 2025 |
+| HyperLaunch | Fair Launch | Liquidity Management / Distribution | [📋](https://github.com/BugBlow/audits/blob/main/HyperLaunch_Security_Audit_Report_By_BugBlow.pdf) | Apr 4, 2025 |
 | Delabs | Boxing Star X (TON) | GameFi | [📋](https://github.com/BugBlow/audits/blob/main/Delabs_TON_Security_Audit_Report_By_BugBlow.pdf) | Feb 12, 2025 |
 | CryptoBillions | Shareholder | DAO | [📋](https://github.com/BugBlow/audits/blob/main/CryptoBillions/CryptoBillions_Audit_BugBlow.pdf) | Nov 30, 2024 |
 | Aqua Protocol | Stablecoin | Lending / Borrowing | [📋](https://github.com/BugBlow/audits/blob/main/AquaProtocol/Aqua_Security_Audit_BugBlow.pdf) | Sep 10, 2024 |
